@@ -1,0 +1,242 @@
+Slide 1:
+Intro:
+Hi, my name is Hannah, and today I’ll be presenting my capstone project: Data Dwellers
+
+The idea for this project came from my desire for a change of scenery
+
+I’ve lived in Nashville and the Middle Tennessee area for most of my life, and I’m ready to explore somewhere new
+
+Slide 2:
+
+So I thought, why not use the skills I’ve learned in this class to help guide the decision of where should I live.......
+
+Slide 3:
+
+To help me determine which cities I should compare I had these factors in mind:
+
+I wanted to look at the Diversity of each city. As a diverse city offers a wide range of restaurants, has a variety cultural events, and fosters a vibrant, and inclusive community.
+
+While I am a remote worker and don’t have to travel into a office - I wanted a city that had public transportation as an option
+
+The most boring but most important factor I needed to look at is cost of living
+
+To determine which cities to compare I wanted to look at cities that aligned with my astrological chart. 
+While I don’t take astrology too seriously I wanted to ensure that the cities I was looking at would lead to a successful life
+
+I also know that out of all the places I have traveled to in the US, I have not really found a place that felt like home to me. So I want to look at cities I have not visited yet.
+
+
+Slide 4
+
+I decided to use my astrological chart and Astro cartography to find U.S. cities that positivity aligned with my planetary influences. 
+
+Astro cartography or astrology can guide you toward cities that energetically support your growth — and data can confirm they meet your needs.
+
+The lines on my chart crossed cities like Asheville, Santa Fe, Seattle, Portland, and Boston.
+
+From there, I narrowed the list using the factors I mentioned earlier.
+I removed Asheville and Boston because I’ve already visited them.
+
+I ruled out Portland as I did not feel “weird” enough to live there (and yes, I realize I’m saying that while showing you my astrological chart).
+And Santa Fe unfortunately lacked the detailed city data I needed for this project.
+
+After selecting these cities I used data analysis to ensure they aligned with my personal and professional growth.
+That leaves us with the final four cities we’ll be exploring today…
+
+
+
+Slide 5:
+
+Raleigh, Seattle, Austin and Philadelphia.
+For these four cities we are going to look at the social demographic, public transit, and what it costs to live in each.
+
+Lets looks at the first factor..
+
+
+
+Slide 6:
+
+
+
+Social demographics or the diversity of each city.
+
+This factor is important to me because, a city with diversity has a variety of restaurants, different cultural events, and a strong community.
+
+
+
+Slide 7:
+
+Here we are looking at the regional origins of the foreign-born population in each city.
+
+Seattle and Raleigh have the highest percentages of residents born in Asia, while Austin has the largest Latin American-born population.
+
+According to America’s Most Diverse Food Cities, Seattle ranks #3, Philadelphia #11, and Austin #15.
+
+So Why does this matters to me:
+
+Living in a diverse city isn’t just about access to great restaurants
+diversity brings a mix of cultures, leads to different ideas, habits and lifestyles. 
+
+
+
+The next factor we are going to look at is transportation…
+
+Slide 8:
+
+
+While I am a remote worker and do not necessarily need to travel daily into an office, I would like to live somewhere that has an option for public transportation…
+
+To evaluate the transit systems of these cities, I examined how much each city spends and the population density within their service areas.
+
+
+
+Slide 9:
+Here we have the percentage of each city's budget that is allocated to public transportation. 
+
+It's important to note that this figure may be misleading, as the total operating budgets vary between cities.
+
+Next we will look at how much each cities transit budget is
+
+
+Slide 10:
+Here we have how much each city budgets for transportation.
+
+Through my analysis of each cities budget, the transportation budgets appear to include not only public transit, but also infrastructure such as sidewalks, traffic lights, and road maintenance
+
+All these factors can influence the effectiveness of public transportation.
+
+Now let’s look at the service area population density
+
+
+
+Slide 11:
+
+Here is city budget per person. This is how much each city spends per person on public transportation.
+
+
+Now let’s look at the service area population density
+
+Slide 12:
+
+Here, we’re looking at how many people live per square mile within each city's public transportation service area.
+This data shows not only the size of the service area but also how densely populated it is.
+
+Higher density usually means:
+
+Greater demand for transit
+Potentially more efficient or cost-effective operations
+More frequent service or infrastructure investment
+
+Lower density might suggest:
+
+A more spread-out city layout
+Greater reliance on personal vehicles
+Higher costs to serve fewer people
+
+
+While not shown here, Seattle stands out as having one of the most diverse transportation systems among the cities I studied. The city offers buses, light rail, streetcars, regional rail, ferries, and even a monorail.
+
+It’s also worth noting that from Philadelphia, you can take a train to major cities like New York City, Washington, D.C., and Boston.
+
+Now let’s look at the next factor
+
+Slide 13:
+
+cost of living…
+
+Are these cities going to be in the budget or do I need to ask for a raise????
+
+
+Slide 14:
+
+First we are going to look at the per capita personal consumption expenditures by state. This is the average amount of money each person spends on goods and services annually 
+
+This is based on data from 2023.
+
+This includes housing /utilities, Healthcare, dining out, and other personal consumption expenditures.
+
+For scale the united state average is $56,202
+
+Next we will break these down into three core categories...
+
+
+Slide 15:
+
+This chart highlights three core cost-of-living categories: housing and utilities, healthcare, and dining out.
+
+Among the cities compared, Pennsylvania stands out for having the highest healthcare costs, whereas Washington leads in housing expenses.
+
+Next we will break down monthly utility cost..
+
+
+Slide 16:
+
+Here we have the average monthly water and electric bill for each state.
+
+While Washington ranked high in previous categories, its electric costs are lower. This is largely because over half of Washington’s electricity comes from hydropower.
+
+Electric costs can also vary by climate. For example, warmer states often see higher bills due to increased air conditioning use—this could explain why Austin has a higher-than-average electric bill.
+
+North Carolina’s water bills are significantly lower, likely due to the state's Department of Environmental Quality (NC DEQ), which developed a Water Efficiency Best Management Practices (BMP) manual for community water systems.
+
+Now let’s look at housing cost…
+
+
+Slide 17:
+
+Here we have the average cost of rent for a single-family home from 2015 to 2024
+Seattle ranks the highest, which aligns with trends seen in previous charts.
+Austin is in the middle
+While Raleigh and Philadelphia have remained relatively stable and close in price over this period.
+
+Next, we'll take a look at the average home prices in these cities.
+
+
+Slide 18:
+Here we have the average single-family home prices from 2015 to 2024.
+
+Seattle remains the most expensive, with the average home price exceeding $900k
+
+Austin remains in the middle w/ Raleigh
+
+and Philadelphia is more affordable than Raleigh, 
+
+with a lower average home price over this period.
+
+
+Slide 19:
+
+After taking these factors into consideration… Where should I live?
+
+Slide 20:
+
+Philadelphia stands out as a top contender with its combination of affordability, diverse population, and strong transportation options. 
+
+Its housing costs are lower than many comparable cities, it also offers a robust public transit system that connects easily to major hubs like New York City, Washington, D.C., and Boston.
+
+In addition to practical advantages, Philadelphia has a vibrant restaurant scene and rich cultural diversity, making it a more appealing choose. 
+
+Seattle offers a wide range of transportation options and plenty of green spaces but comes with a significantly higher cost of living.
+
+Raleigh shares similar diversity and green space benefits but lacks Philadelphia’s extensive transit network.
+
+Overall, Philadelphia’s balance of affordability, connectivity, and lifestyle amenities positions it as the best choice.
+
+With this research in mind.....
+
+Slide 21:
+
+My next step is to explore these cities up close.
+
+
+ Here’s my plan for visiting each one.
+
+Slide 22:
+
+Thoughts, opinions, ideas, questions, comments, concerns……..
+
+Slide 23:
+
+Thank you!
+
+
