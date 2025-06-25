@@ -1,14 +1,23 @@
-## nss-capstone-da14-2025
+### NSS-Capstone-DA14-2025
+## **Data Dwellers: Finding a Home Through Analytics**
+#### by Hannah Donnelly
 
-**Data Dwellers: Finding a Home Through Analytics**
+#
 
-This capstone project evaluates the most suitable U.S. city for relocation among **Raleigh, Seattle, Philadelphia, and Austin**. The analysis focuses on:
+#### This capstone project evaluates the most suitable U.S. city for relocation among:
+
+ - **Raleigh**
+ - **Seattle**
+ - **Philadelphia**
+ - **Austin**
+
+The analysis focuses on:
 
 - **Transportation**
 - **Diversity**
 - **Affordability**
 
-By integrating public data, the project aims to balance personal well-being with professional flexibility, while identifying diverse communities.
+By integrating public data, the project aims to balance personal well-being with professional flexibility, while identifying diverse communities that offer affordable living and a variety of transportation options.
 
 ## Technologies Used:
 
@@ -78,7 +87,7 @@ Austin:
 - 'austin_travel_time.csv'
 - 'austin_means_transport.csv'
 
-Philly:
+Philadelphia:
 - 'philadelphia_travel_time.csv'
 - 'philadelphia_means_transport.csv'
 
@@ -102,7 +111,7 @@ Austin:
 - 'austin_place_birth.csv'
 - 'austin_region.csv'
 
-Philly:
+Philadelphia:
 - 'philadelphia_ancestry.csv'
 - 'philadelphia_language.csv'
 - 'philadelphia_place_birth.csv'
@@ -160,6 +169,7 @@ Charts for Google Slide:
 ## Interactive Dashboard:
 - https://tinyurl.com/datadwellershdonnelly
 - https://app.powerbi.com/view?r=eyJrIjoiNjUzYjRmNWMtMDMxZC00NmY0LWIzOTgtMWE5NzZkMjhjYzI4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&embedImagePlaceholder=true
+
 
 ## Color Reference
 
