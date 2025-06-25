@@ -173,18 +173,35 @@ Charts for Google Slide:
 
 ## Color Reference
 
-| Color                         | Hex         |
-| ------------------------------|------------ |
-| Austin  or Texas              |#d29d6c      |
-| Raleigh or North Carolina     |#bbc7ba      |
-| Seattle  or Washington    	|#856d89      |
-| Philadelphia or Pennsylvania  |#9e6076      |
-| Drove Themselves		|#f2a291      |
-| Public transportation		|#dbb6b5      |
-| Worked from home		|#f8e3dc      |
-| Other Means			|#90a3b4      |
-|Service Area Population Density|#5fc1e9      |
-|UZA Population Density		|#556070      |
-|Geographic Coverage		|#fbca94      |
-|Population Coverage            |#eb7065      |
+| Category                      | Hex Code  |
+| ----------------------------- |-----------|
+| Austin or Texas               | #d29d6c   |
+| Raleigh or North Carolina     | #bbc7ba   |
+| Seattle or Washington         | #856d89   |
+| Philadelphia or Pennsylvania  | #9e6076   |
+| Drove Themselves              | #f2a291   |
+| Public Transportation         | #dbb6b5   |
+| Worked from Home              | #f8e3dc   |
+| Other Means                   | #90a3b4   |
+| Service Area Pop. Density     | #5fc1e9   |
+| UZA Population Density        | #556070   |
+| Geographic Coverage           | #fbca94   |
+| Population Coverage           | #eb7065   |
+| Europe                        | #4f303b   |
+| Asia                          | #c5a0ad   |
+| Africa                        | #c84f4c   |
+| Oceania                       | #9e6076   |
+| Latin America                 | #f2a291   |
+| Northern America              | #f394b5   |
+| English only                  | #d6a084   |
+| Spanish                       | #be8032   |
+| Other Indo-European           | #779fa1   |
+| Asian & Pacific Islander      | #093a4f   |
+| Other languages               | #ffefd3   |
+| European Country              | #4f90a6   |
+| Subsaharan African            | #8c3f2e   |
+| American                      | #d9b382   |
+| Arab                          | #7b6d8d   |
+| North American                | #3c7a4a   |
+| West Indian                   | #b35d8d   |
 
