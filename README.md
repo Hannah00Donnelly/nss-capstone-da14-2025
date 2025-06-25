@@ -106,7 +106,7 @@ Philly:
 - 'philadelphia_ancestry.csv'
 - 'philadelphia_language.csv'
 - 'philadelphia_place_birth.csv'
--'philadelphia_region.csv'
+- 'philadelphia_region.csv'
 
 Raleigh:
 - 'raleigh_ancestry.csv'
@@ -143,15 +143,17 @@ City Counties:
 - Raleigh: Wake County
 
 ## Key Terms:
-UZA: urbanized area
-Per Capita Personal Consumption Expenditures: the average amount of money each person spends on goods and services annually 
+- UZA: urbanized area
+- Per Capita Personal Consumption Expenditures: the average amount of money each person spends on goods and services annually 
 
 ## Capstone Proposal:
-https://docs.google.com/document/d/1jEov03OxxdwJZkL75jja9udKg1Vqd_331WfJm8YlBKU/edit?tab=t.0#heading=h.uyvrgle8xdgu
+- https://docs.google.com/document/d/1jEov03OxxdwJZkL75jja9udKg1Vqd_331WfJm8YlBKU/edit?tab=t.0#heading=h.uyvrgle8xdgu
 
 ## Final Presentation: 
+
 Google Slides:
 - https://docs.google.com/presentation/d/1mnav6ejLHY0YiMRgrxLAyHYXTZLaRHhrcbJGlDrDJPs/edit?usp=sharing
+
 Charts for Google Slide:
 - https://docs.google.com/spreadsheets/d/19h8UskpRaXuDodfEGB1lDgAi2k6vWtZMrHy_tLmKSoU/edit?usp=sharing
 
