@@ -4,13 +4,13 @@
 
 This capstone project evaluates the most suitable U.S. city for relocation among **Raleigh, NC; Seattle, WA; Philadelphia, PA; and Austin, TX**. The analysis focuses on:
 
-- **Infrastructure**
+- **Transportation**
 - **Diversity**
 - **Affordability**
 
-By integrating public data, the project aims to balance personal well-being with professional flexibility, while identifying vibrant, well-connected communities.
+By integrating public data, the project aims to balance personal well-being with professional flexibility, while identifying diverse communities.
 
-## Technologies Used
+## Technologies Used:
 
 - Python (Pandas, Matplotlib, Seaborn)
 - Excel
@@ -148,7 +148,8 @@ Charts for Google Slide:
 https://docs.google.com/spreadsheets/d/19h8UskpRaXuDodfEGB1lDgAi2k6vWtZMrHy_tLmKSoU/edit?usp=sharing
 
 ## Interactive Dashboard:
-https://app.powerbi.com/links/y2Fxw0NQXf?ctid=101da587-1843-4f52-8b8a-17b069c66d33&pbi_source=linkShare
+https://tinyurl.com/datadwellershdonnelly
+https://app.powerbi.com/view?r=eyJrIjoiNjUzYjRmNWMtMDMxZC00NmY0LWIzOTgtMWE5NzZkMjhjYzI4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&embedImagePlaceholder=true
 
 ## Color Reference
 
