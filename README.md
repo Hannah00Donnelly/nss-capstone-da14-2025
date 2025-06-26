@@ -8,7 +8,7 @@
 
 The goal of this capstone project is to identify the most suitable U.S. city for relocation, based on infrastructure, diversity, and affordability, while supporting both personal well-being and professional flexibility. The project operates on several assumptions, including reliable internet access, a correlation between cultural diversity and vibrant food and event scenes, and stable infrastructure and cost-of-living data. Key challenges include inconsistent data availability across cities and the difficulty of balancing objective metrics with subjective values.
 
-This analysis compares the following cities::
+This analysis compares the following cities:
 
  - **Raleigh**
  - **Seattle**
@@ -28,7 +28,7 @@ By integrating public data, the project aims to identify cities that offer diver
 
 ## Final Presentation: 
 
-## Interactive Dashboard:
+Interactive Dashboard:
 - https://tinyurl.com/datadwellershdonnelly
 - https://app.powerbi.com/view?r=eyJrIjoiNjUzYjRmNWMtMDMxZC00NmY0LWIzOTgtMWE5NzZkMjhjYzI4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&embedImagePlaceholder=true
 
@@ -70,7 +70,7 @@ Charts for Google Slide:
 - Number of languages spoken
 - Median monthly rent
 - Median home price
-- Average monthly utility and internet costs
+- Average monthly utility costs
 
 ## Data Sources:
 
@@ -80,7 +80,7 @@ City Budgets for transportation calculations:
 	- 'austin_program_budget_operating_budget_vs_expense_raw_data_20250519.csv'
 - Philadelphia:
 	- https://opendataphilly.org/datasets/city-operating-budget/
-	- operating_budget_fy_2019.csv
+	- 'operating_budget_fy_2019.csv'
 - Raleigh:
 	- https://arcg.is/18Hjui1
 	- 'raleigh_adopted_expense_budget.csv'
@@ -101,63 +101,55 @@ Transit Systems for Each City:
 Commute Time and Means of Transportation Data:
 - Census Commuting Characteristics by Sex S0801
 - https://data.census.gov/table?q=S0801
-
-Austin:
-- 'austin_travel_time.csv'
-- 'austin_means_transport.csv'
-
-Philadelphia:
-- 'philadelphia_travel_time.csv'
-- 'philadelphia_means_transport.csv'
-
-Raleigh:
-- 'raleigh_travel_time.csv'
-- 'raleigh_means_transport.csv'
-
-Seattle:
-- 'seattle_travel_time.csv'
-- 'seattle_means_transport.csv'
+- Austin:
+	- 'austin_travel_time.csv'
+	- 'austin_means_transport.csv'
+- Philadelphia:
+	- 'philadelphia_travel_time.csv'
+	- 'philadelphia_means_transport.csv'
+- Raleigh:
+	- 'raleigh_travel_time.csv'
+	- 'raleigh_means_transport.csv'
+- Seattle:
+	- 'seattle_travel_time.csv'
+	- 'seattle_means_transport.csv'
 
 Diversity or Social Characteristics:
 - Census Social Characteristics DP02
 - https://data.census.gov/table?q=DP02
-- This includes: place of birth, languages spoken at home, and region of birth of foreign population
-- Census data on ancestry appears to be biased towards European countries
-
-Austin:
-- 'austin_ancestry.csv'
-- 'austin_language.csv'
-- 'austin_place_birth.csv'
-- 'austin_region.csv'
-
-Philadelphia:
-- 'philadelphia_ancestry.csv'
-- 'philadelphia_language.csv'
-- 'philadelphia_place_birth.csv'
-- 'philadelphia_region.csv'
-
-Raleigh:
-- 'raleigh_ancestry.csv'
-- 'raleigh_language.csv'
-- 'raleigh_place_birth.csv'
-- 'raleigh_region.csv'
-
-Seattle:
-- 'seattle_ancestry.csv'
-- 'seattle_language.csv'
-- 'seattle_place_birth.csv'
-- 'seattle_region_birth.csv'
+	- This includes: place of birth, languages spoken at home, and region of birth of foreign population
+	- Census data on ancestry appears to be biased towards European countries
+- Austin:
+	- 'austin_ancestry.csv'
+	- 'austin_language.csv'
+	- 'austin_place_birth.csv'
+	- 'austin_region.csv'
+- Philadelphia:
+	- 'philadelphia_ancestry.csv'
+	- 'philadelphia_language.csv'
+	- 'philadelphia_place_birth.csv'
+	- 'philadelphia_region.csv'
+- Raleigh:
+	- 'raleigh_ancestry.csv'
+	- 'raleigh_language.csv'
+	- 'raleigh_place_birth.csv'
+	- 'raleigh_region.csv'
+- Seattle:
+	- 'seattle_ancestry.csv'
+	- 'seattle_language.csv'
+	- 'seattle_place_birth.csv'
+	- 'seattle_region_birth.csv'
 
 Cost of Living Data:
 - This includes average monthly rent, home prices, utility costs, and personal consumption expenditures
 - Personal Consumption Expenditures by State:
-- https://www.bea.gov/news/2024/real-personal-consumption-expenditures-state-and-real-personal-income-state-and
-- 'personal_consumption_expenditures_all_bea_2023_pc.csv'
+	- https://www.bea.gov/news/2024/real-personal-consumption-expenditures-state-and-real-personal-income-state-and
+	- 'personal_consumption_expenditures_all_bea_2023_pc.csv'
 - Residential average monthly bill by Census Division, and State:
-- https://www.eia.gov/electricity/sales_revenue_price/
-- 'eia_avg_monthly_utility_all.csv'
-- https://worldpopulationreview.com/state-rankings/water-prices-by-state
-- 'water-prices-by-state-2025.csv'
+	- https://www.eia.gov/electricity/sales_revenue_price/
+	- 'eia_avg_monthly_utility_all.csv'
+	- https://worldpopulationreview.com/state-rankings/water-prices-by-state
+	- 'water-prices-by-state-2025.csv'
 
 Housing Data:
 - https://www.zillow.com/research/data/
@@ -166,7 +158,7 @@ Housing Data:
 
 City Counties:
 - Seattle: King County
-- Philadelphia: Philadelphia
+- Philadelphia: Philadelphia County
 - Austin: Travis County
 - Raleigh: Wake County
 
@@ -212,6 +204,7 @@ City Counties:
 
 
 Contact Information: hannah00donnelly@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/hannah00donnelly/
 
 
