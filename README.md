@@ -46,7 +46,7 @@ Charts for Google Slide:
 - Google Slides
 - Power BI
 
-## Setup Instructions
+## Setup Instructions:
 
 1. Clone the repository.
 2. Download the required datasets listed below and place them in the `data/` folder.
@@ -167,7 +167,7 @@ City Counties:
 - Per Capita Personal Consumption Expenditures: the average amount of money each person spends on goods and services annually 
 
 
-## Color Reference
+## Color Reference:
 
 | Category                      | Hex Code  |
 | ----------------------------- |-----------|
