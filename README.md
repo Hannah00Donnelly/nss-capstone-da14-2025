@@ -4,20 +4,39 @@
 
 #
 
-#### This capstone project evaluates the most suitable U.S. city for relocation among:
+#### Project Overview:
+
+The goal of this capstone project is to identify the most suitable U.S. city for relocation, based on infrastructure, diversity, and affordability, while supporting both personal well-being and professional flexibility. The project operates on several assumptions, including reliable internet access, a correlation between cultural diversity and vibrant food and event scenes, and stable infrastructure and cost-of-living data. Key challenges include inconsistent data availability across cities and the difficulty of balancing objective metrics with subjective values.
+
+This analysis compares the following cities::
 
  - **Raleigh**
  - **Seattle**
  - **Philadelphia**
  - **Austin**
 
-The analysis focuses on:
+The evaluation focuses on three main criteria:
 
 - **Transportation**
 - **Diversity**
 - **Affordability**
 
-By integrating public data, the project aims to balance personal well-being with professional flexibility, while identifying diverse communities that offer affordable living and a variety of transportation options.
+By integrating public data, the project aims to identify cities that offer diverse communities, affordable living, and strong transportation options.
+
+## Capstone Proposal:
+- https://docs.google.com/document/d/1jEov03OxxdwJZkL75jja9udKg1Vqd_331WfJm8YlBKU/edit?tab=t.0#heading=h.uyvrgle8xdgu
+
+## Final Presentation: 
+
+## Interactive Dashboard:
+- https://tinyurl.com/datadwellershdonnelly
+- https://app.powerbi.com/view?r=eyJrIjoiNjUzYjRmNWMtMDMxZC00NmY0LWIzOTgtMWE5NzZkMjhjYzI4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&embedImagePlaceholder=true
+
+Google Slides:
+- https://docs.google.com/presentation/d/1mnav6ejLHY0YiMRgrxLAyHYXTZLaRHhrcbJGlDrDJPs/edit?usp=sharing
+
+Charts for Google Slide:
+- https://docs.google.com/spreadsheets/d/19h8UskpRaXuDodfEGB1lDgAi2k6vWtZMrHy_tLmKSoU/edit?usp=sharing
 
 ## Technologies Used:
 
@@ -155,21 +174,6 @@ City Counties:
 - UZA: urbanized area
 - Per Capita Personal Consumption Expenditures: the average amount of money each person spends on goods and services annually 
 
-## Capstone Proposal:
-- https://docs.google.com/document/d/1jEov03OxxdwJZkL75jja9udKg1Vqd_331WfJm8YlBKU/edit?tab=t.0#heading=h.uyvrgle8xdgu
-
-## Final Presentation: 
-
-Google Slides:
-- https://docs.google.com/presentation/d/1mnav6ejLHY0YiMRgrxLAyHYXTZLaRHhrcbJGlDrDJPs/edit?usp=sharing
-
-Charts for Google Slide:
-- https://docs.google.com/spreadsheets/d/19h8UskpRaXuDodfEGB1lDgAi2k6vWtZMrHy_tLmKSoU/edit?usp=sharing
-
-## Interactive Dashboard:
-- https://tinyurl.com/datadwellershdonnelly
-- https://app.powerbi.com/view?r=eyJrIjoiNjUzYjRmNWMtMDMxZC00NmY0LWIzOTgtMWE5NzZkMjhjYzI4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&embedImagePlaceholder=true
-
 
 ## Color Reference
 
@@ -204,4 +208,10 @@ Charts for Google Slide:
 | Arab                          | #7b6d8d   |
 | North American                | #3c7a4a   |
 | West Indian                   | #b35d8d   |
+
+
+
+Contact Information: hannah00donnelly@gmail.com
+LinkedIn: https://www.linkedin.com/in/hannah00donnelly/
+
 
